@@ -1,0 +1,1 @@
+<!-- Sub menu start --><ul class="nav nav-tabs" role="tablist">    {sub_menu}    	<li role="presentation" class="{class}"><a href="<?php echo base_url()?>{url}" title="{title}">{label}</a></li>    {/sub_menu}</ul><!-- Sub menu end -->

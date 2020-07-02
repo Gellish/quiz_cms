@@ -1,0 +1,33 @@
+body{
+	font-family: 'Lato', sans-serif;
+}
+.error{color:#ff0000;}
+
+.navbar-inverse {
+    background-color: #1c293a;
+    border-color: #080808;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #aee238;
+}
+.count-number a{
+	color: #000;
+}
+.count-number a:hover{
+	text-decoration: none;
+	color: #aee238;
+}
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover {
+    color: #fff;
+    text-decoration: none;
+    background-color: #aee238;
+    outline: 0;
+}
+.navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover {
+    color: #aee238;
+    background-color: transparent;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}

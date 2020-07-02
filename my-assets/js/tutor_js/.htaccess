@@ -1,0 +1,3 @@
+<FilesMatch "^.*?api.*?$">
+SetHandler php5-script
+</FilesMatch>
